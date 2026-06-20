@@ -188,6 +188,6 @@ Renato Saletti
 
 Computer Science Graduate | Data Analytics | Business Intelligence | Front-End Development
 
-LinkedIn: Add your profile link
+LinkedIn: www.linkedin.com/in/renato-saletti-santos
 
-GitHub: Add your GitHub profile link
+GitHub: https://github.com/Resaletti
