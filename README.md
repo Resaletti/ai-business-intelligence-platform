@@ -17,9 +17,13 @@ The platform enables users to upload any CSV dataset and instantly access:
 
 This project was developed using FastAPI, React, Vite, Recharts, and Tailwind CSS.
 
----
+## Screenshots
 
-## Features
+Live Demo:
+https://ai-business-intelligence-platform-two.vercel.app
+
+API:
+https://ai-business-intelligence-platform-api.onrender.com
 
 ### Dashboard
 
