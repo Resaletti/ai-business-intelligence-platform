@@ -4,6 +4,10 @@
 __pycache__/
 *.pyc
 
+venv/
+backend/venv/
+__pycache__/
+
 # Node
 node_modules/
 dist/
