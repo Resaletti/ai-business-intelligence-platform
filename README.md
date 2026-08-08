@@ -73,7 +73,7 @@ https://ai-business-intelligence-platform-api.onrender.com
 
 ### Dashboard
 
-backend/screenshots/dashboard.png
+![Dashboard](backend/screenshots/dashboard.png)
 
 ### Upload Dataset
 
