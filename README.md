@@ -77,19 +77,19 @@ https://ai-business-intelligence-platform-api.onrender.com
 
 ### Upload Dataset
 
-![Upload](screenshots/upload.png)
+![Upload](backend/screenshots/upload.png)
 
 ### Dataset Explorer
 
-![Explorer](screenshots/explorer.png)
+![Explorer](backend/screenshots/explorer.png)
 
 ### Advanced Analytics
 
-![Analytics](screenshots/analytics.png)
+![Analytics](backend/screenshots/analytics.png)
 
 ### Executive Report
 
-![Executive Report](screenshots/executive-report.png)
+![Executive Report](backend/screenshots/executive-report.png)
 
 ---
 
